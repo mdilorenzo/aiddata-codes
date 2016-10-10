@@ -1,0 +1,544 @@
+11105.01 : Education, Level Unspecified, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+11110.01 : Education Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+11110.02 : Education Sector Policy, Planning And Programmes
+11110.03 : Institution Capacity Building, Education
+11110.04 : Aid To Education Ministries, Administration And Management Systems
+11110.05 : School Management And Governance
+11110.06 : Curriculum Development
+11120.01 : Education Facilities And Training, Activity Unspecified Or Does Not Fit Elsewhere In Group
+11120.02 : Educational Equipment, Supplies, And Materials
+11120.03 : Subsidiary Services To Education (Boarding Facilities, Staff Housing)
+11120.04 : Language Training
+11120.05 : Education Infrastructure
+11120.06 : Colloquia, Seminars, Lectures, Etc.
+11130.01 : Teacher Training, Level Unspecified, Activities
+11130.02 : In-Service And Pre-Service Training
+11130.03 : Materials Development
+11182.01 : Educational Research, Activity Unspecified Or Does Not Fit Elsewhere In Group
+11182.02 : Research And Studies On Education Effectiveness, Relevance And Quality
+11182.03 : Systematic Evaluation And Monitoring
+11220.01 : Basic/Primary Education, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+11220.02 : Basic Education, Policy And Administrative Management
+11220.03 : Basic Education Infrastructure
+11220.04 : Formal And Non-Formal Primary Education For Children
+11220.05 : Provision Of Learning Materials, Equipment, Supplies
+11220.06 : Primary Education, Teacher Training
+11230.01 : Basic Life Skills For Youth And Adults, Activity Unspecified
+11230.02 : Formal And Non-Formal Education For Basic Life Skills For Young People And Adults (Adult Education)
+11230.03 : Literacy And Numeracy Training
+11240.01 : Early Childhood Education, Activity Unspecified Or Does Not Fit Elsewhere In Group
+11240.02 : Formal And Non-Formal Pre-School Education
+11320.01 : Secondary Education, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+11320.02 : Secondary Education, Policy And Administrative Management
+11320.03 : Secondary Education Infrastructure
+11320.04 : Formal And Non-Formal Secondary Education
+11320.05 : Provision Of Learning Materials, Equipment, Supplies
+11320.06 : Scholarships
+11320.07 : Secondary Education, Teacher Training
+11330.01 : Vocational Training, Activity Unspecified
+11330.02 : Elementary Vocational Training And Secondary Level Technical Education
+11330.03 : On The Job Training
+11330.04 : Apprenticeships
+11420.01 : Post-Secondary Education, Activity Unspecified Or Does Not Fit Elsewhere In Group
+11420.02 : Post-Secondary Education, Policy And Administrative Management
+11420.03 : Post-Secondary Education Infrastructure
+11420.04 : Formal And Non-Formal Post-Secondary Education
+11420.05 : Provision Of Learning Materials, Equipment, Supplies
+11420.06 : Scholarships For Post-Secondary Education
+11420.07 : Post-Secondary Education, Teacher Training
+11430.01 : Advanced Technical And Managerial Training, Activity Unspecified
+11430.02 : Professional-Level Vocational Training Programmes
+11430.03 : On The Job Training
+11430.04 : Apprenticeships
+11430.05 : Managerial Training
+12005.01 : Health, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+12105.01 : Health, General, Activity Unspecified
+12110.01 : Health Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+12110.02 : Health Sector Policy, Planning And Programmes
+12110.03 : Institution Capacity Building, Health General
+12110.04 : Aid To Health Ministries, Public Health Administration
+12110.05 : Medical Insurance Programs
+12181.01 : All Medical Education/Training Activities
+12182.01 : All General Medical Research Activities
+12191.01 : Medical Services, Activity Unspecified Or Does Not Fit Elsewhere In Group
+12191.02 : Laboratories
+12191.03 : Specialized Clinics And Hospitals
+12191.04 : Specialized Medical Equipment And Supplies
+12191.05 : Ambulances
+12191.06 : Dental Services
+12191.07 : Mental Health Care
+12191.08 : Control Of Non-Infectious Diseases
+12191.09 : Drug And Substance Abuse Control And Counseling
+12220.01 : Basic Health Care, Activity Unspecified Or Does Not Fit Elsewhere In Group
+12220.02 : Basic/Primary Health Care Programmes
+12220.03 : Paramedical And Nursing Care Programmes
+12220.04 : Supply Of Drugs, Medicines And Vaccines (Basic)
+12220.05 : Infant And Child Health
+12230.01 : Basic Health Infrastructure, Activity Unspecified Or Does Not Fit Elsewhere In Group
+12230.02 : Basic Hospitals, Clinics And Dispensaries
+12230.03 : Basic Health Medical Equipment And Supplies
+12240.01 : Basic Nutrition, Activity Unspecified Or Does Not Fit Elsewhere In Group
+12240.02 : Direct Feeding Programmes
+12240.03 : Monitoring Of Nutritional Status
+12240.04 : Provision Of Nutrients (Vitamin A, Iodine, Iron)
+12240.05 : Nutrition And Food Hygiene Education
+12240.06 : Household Food Security
+12250.01 : All Prevention And Control Activities
+12250.02 : Other Infectious And Parasitic Disease, Control
+12250.03 : Malaria Control
+12250.04 : Tuberculosis Control
+12250.05 : Helminthiasis
+12250.06 : Polio
+12250.07 : Acute Respiratory Infections
+12261.01 : Health Education, Activity Unspecified Or Does Not Fit Elsewhere In Group
+12261.02 : Information, Education And Training
+12261.03 : Public Health And Awareness Campaigns
+12281.01 : All Staff Training, Basic Health Care Services
+13005.01 : Population Policies/ Programmes And Reproductive Health, Activity Unspecified
+13010.01 : Population Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+13010.02 : Population/Development Policies
+13010.03 : Institution Capacity Building, Population Policy And Reproductive Health
+13010.04 : Census Work, Vital Registration
+13010.05 : Migration Data
+13010.06 : Demographic Research
+13010.07 : Reproductive Health Research
+13020.01 : Reproductive Health Care, Activity Unspecified Or Does Not Fit Elsewhere In Group
+13020.02 : Promotion Of Reproductive Health
+13020.03 : Prenatal And Postnatal Care Including Delivery
+13020.04 : Prevention And Treatment Of Infertility
+13020.05 : Prevention And Management Of Consequences Of Abortion
+13020.06 : Safe Motherhood Activities
+13030.01 : Family Planning, Activity Unspecified Or Does Not Fit Elsewhere In Group
+13030.02 : Family Planning Services
+13030.03 : Information, Education And Communication (Iec) Activities
+13030.04 : Delivery Of Contraceptives
+13030.05 : Capacity Building And Training
+13040.01 : Unspecified Std And Hiv/Aids Activities Or Does Not Fit Elsewhere In Group
+13040.02 : Information, Education And Communication
+13040.03 : Testing
+13040.04 : Prevention
+13040.05 : Treatment, Care
+13081.01 : Staff Education And Training, P&R Health Care Services
+14005.01 : Water Supply And Sanitation, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+14010.01 : Water Resources Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+14010.02 : Water Sector Policy, Planning And Programmes
+14010.03 : Institution Capacity Building, Water
+14015.01 : Water Resources Protection, Activity Unspecified Or Does Not Fit Elsewhere In Group
+14015.02 : Inland Surface Waters
+14015.03 : Water Conservation
+14015.04 : Prevention Of Water Contamination
+14020.01 : Water Supply And Sanitation - Large Systems, Activity Unspecified Or Does Not Fit Elsewhere In Group
+14020.02 : Water Desalination Plants
+14020.03 : Sewerage
+14020.04 : Intakes, Storage, Pumping Stations, Conveyance And Distribution Systems
+14020.05 : Domestic And Industrial Waste Water Treatment Plants
+14020.06 : Water Supply Assessments And Studies
+14030.01 : Basic Drinking Water Supply And Basic Sanitation, Activity Unspecified Or Does Not Fit Elsewhere In Group
+14030.02 : Water Supply And Sanitation, Low-Cost Technologies
+14030.03 : Small System Sewerage
+14040.01 : River Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+14040.02 : Integrated River Basin Projects
+14040.03 : River Flow Control
+14040.04 : Dams And Reservoirs
+14050.01 : Waste Management/Disposal, Activity Unspecified Or Does Not Fit Elsewhere In Group
+14050.02 : Municipal And Industrial Solid Waste Management
+14050.03 : Collection, Disposal And Treatment
+14050.04 : Landfill Areas
+14050.05 : Composting And Reuse
+14081.01 : All Water Supply And Sanitation Education/Training Activities
+14082.01 : All Water Research Activities
+14082.02 : Hydrogeology
+15105.01 : Government And Civil Society, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+15110.01 : Economic And Development Policy/Planning, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15110.02 : Macro-Economic, Fiscal And Monetary Policy And Planning
+15110.03 : Institutional Capacity Building, Government
+15110.04 : Support To Other Ministries And Government Departments When Sector Cannot Be Specified
+15110.05 : Development Planning And Preparation Of Structural Reforms
+15120.01 : Public Sector Financial Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15120.02 : Improving Public Expenditure And Financial Management Systems
+15120.03 : Tax Assessment Procedures
+15120.04 : Measures Against Waste, Fraud And Corruption
+15130.01 : Legal And Judicial Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15130.02 : Constitutional Development, Legal Drafting
+15130.03 : Institutional Strengthening Of Legal And Judicial Systems
+15130.04 : Legal Training And Education
+15130.05 : Legal Advice And Services
+15130.06 : Law Enforcement And Crime Prevention
+15140.01 : Government Administration, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15140.02 : General Government Services Not Elsewhere Specified
+15140.03 : Systems Of Government
+15140.04 : Civil Service And Administrative Reform
+15140.05 : Government Infrastructure
+15150.01 : Strengthening Civil Society, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15150.02 : Community Participation And Development
+15150.03 : Cooperatives
+15150.04 : Grassroots Organizations
+15150.05 : Other Participatory Planning And Decision Making Procedures And Institutions
+15150.06 : Elections
+15150.07 : Human Rights
+15150.08 : Free Flow Of Information
+15150.09 : Women's Equality Organisations And Institutions
+15205.01 : Conflict Prevention And Resolution, Peace And Security, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+15210.01 : Security System Management And Reform, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15210.02 : Other Security Assistance
+15220.01 : Support For Civilian Peace-Building Activities
+15230.01 : Un Post-Conflict Peace-Building Activities
+15240.01 : Reintegration And Salw Control, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+15240.02 : Reintegration Of Demobilised Military Personnel Into The Economy
+15240.03 : Conversion Of Production Facilities From Military To Civilian Outputs
+15240.04 : Assistance To Control, Prevent And/Or Reduce The Proliferation Of Salw
+15250.01 : Explosive Mine Removal
+15261.01 : Child Soldiers, Activity Unspecified Or Does Not Fit Elsewhere In Group
+15261.02 : Support To Prevent The Recruitment Of Child Soldiers
+15261.03 : Support To Demobilize Child Soldiers
+16010.01 : Social/Welfare Services, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+16010.02 : Social Legislation And Administration
+16010.03 : Institution Capacity Building, Social Welfare Services
+16010.04 : Social Security And Other Social Schemes
+16010.05 : Support For Vulnerable Groups
+16010.06 : Social Dimensions Of Structural Adjustment
+16010.07 : Culture And Recreation
+16010.08 : Statistical Capacity Building
+16010.09 : Narcotics Control
+16010.10 : Social Mitigation Of Hiv/Aids
+16010.11 : Social Infrastructure
+16020.01 : Employment Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+16020.02 : Employment Policy And Planning
+16020.03 : Labor Law And Labor Unions
+16020.04 : Institution Capacity Building, Employment
+16020.05 : Employment Support Programs
+16020.06 : Occupational Safety And Health
+16020.07 : Combating Child Labor
+16030.01 : Housing Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+16030.02 : Housing Sector Policy, Planning And Programmes
+16030.03 : Low-Cost Housing
+16050.01 : Basic Multisector Social Services Activities
+16081.01 : All Social Services Education/Training Activities
+21005.01 : Transport And Storage, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+21010.01 : Transport And Storage, Activity Unspecified Or Does Not Fit Elsewhere In Group
+21010.02 : Transport Sector Policy, Planning And Programs
+21010.03 : Institution Capacity Building, Transport
+21010.04 : Aid To Transport Ministries
+21020.01 : Road Transport, Activity Unspecified Or Does Not Fit Elsewhere In Group
+21020.02 : Road Infrastructure, Road Vehicles
+21020.03 : Public Transportation Systems
+21030.01 : Rail Transport, Activity Unspecified Or Does Not Fit Elsewhere In Group
+21030.02 : Rail Infrastructure, Rail Equipment, Locomotives, Other Rolling Stock
+21030.03 : Light Rail (Tram), Underground Systems
+21040.01 : Water Transport, Activity Unspecified Or Does Not Fit Elsewhere In Group
+21040.02 : Harbors And Docks, Harbor Guidance Systems
+21040.03 : Ocean Ships And Boats
+21040.04 : River And Other Inland Water Transport
+21050.01 : Air Transport, Activity Unspecified Or Does Not Fit Elsewhere In Group
+21050.02 : Airports, Airport Guidance Systems
+21050.03 : Airplanes, Airplane Maintenance Equipment
+21061.01 : Unspecified Storage Activities
+21081.01 : All Transport Education/Training Activities
+22005.01 : Communications, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+22010.01 : Communications Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+22010.02 : Communications Sector Policy, Planning And Programs
+22010.03 : Institution Capacity Building, Communications
+22010.04 : Postal Services Development
+22020.01 : Telecommunication, Activity Unspecified Or Does Not Fit Elsewhere In Group
+22020.02 : Telephone Networks
+22020.03 : Telecommunication Satellites
+22020.04 : Earth Stations
+22030.01 : Radio Activities
+22030.02 : Television Activities
+22030.03 : Print Media Activities
+22040.01 : Information And Communication Technology (Ict), Activity Unspecified Or Does Not Fit Elsewhere In Group
+22040.02 : Computers
+22040.03 : Internet Access
+22040.04 : It Training
+22081.01 : All Communications Education/Training Activities
+23005.01 : Energy Generation And Supply, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+23010.01 : Energy Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+23010.02 : Energy Sector Policy, Planning And Programs
+23010.03 : Institution Capacity Building, Energy
+23010.04 : Aid To Energy Ministries
+23010.05 : Energy Conservation
+23020.01 : Power Generation/Non-Renewable Sources, Activity Unspecified Or Does Not Fit Elsewhere In Group
+23020.02 : Oil-Fired Power Plants
+23020.03 : Gas-Fired Power Plants
+23020.04 : Coal-Fired Power Plants
+23020.05 : Nuclear Power Plants
+23020.06 : Combined Heat And Power Plants (Chp)
+23030.01 : Power Generation/Renewable Sources, Activity Unspecified Or Does Not Fit Elsewhere In Group
+23030.02 : Hydro-Electric Power Plants
+23030.03 : Geothermal Energy
+23030.04 : Solar Energy
+23030.05 : Wind Power
+23030.06 : Ocean Power
+23030.07 : Biomass
+23040.01 : Electrical Transmission/ Distribution, Activity Unspecified Or Does Not Fit Elsewhere In Group
+23040.02 : Electrical Distribution From Power Source To End User
+23040.03 : Transmission Lines
+23050.01 : Gas Distribution Activities
+23050.02 : Gas Storage Activities
+23055.01 : Petroleum Distribution
+23055.02 : Petroleum Storage
+23081.01 : All Energy Education/Training Activities
+23082.01 : All Energy Research Activities
+24005.01 : Banking And Financial Services, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+24010.01 : Financial Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+24010.02 : Finance Sector Policy, Planning And Programs
+24010.03 : Institution Capacity Building, Financial
+24010.04 : Financial Markets And Systems
+24020.01 : All Activities Relating To Monetary Institutions
+24030.01 : Other Financial Activities, Or Unspecified
+24030.02 : All Formal Sector Financial Intermediaries
+24030.03 : Credit Lines
+24040.01 : Informal/Semi-Formal Financial Intermediaries, Activity Unspecified Or Does Not Fit Elsewhere In Group
+24040.02 : Micro-Credit Operations
+24040.03 : Savings And Credit Co-Operatives
+24081.01 : All Banking And Financial Services Education/Training Activities
+25010.01 : Business Support Services And Institutions, Activity Unspecified Or Does Not Fit Elsewhere In Group
+25010.02 : Support To Trade And Business Associations
+25010.03 : Institution Capacity Building, Business
+25010.04 : Business Infrastructure
+25010.05 : Legal And Regulatory Reform
+25010.06 : Business Information
+25010.07 : Public-Private Sector Networking
+25010.08 : General Support To Private Sector Enterprises
+25020.01 : All State Enterprise Privatisation Activities
+25081.01 : All Business Education/Training Activities
+31105.01 : Agriculture, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+31110.01 : Agricultural Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31110.02 : Agricultural Sector Policy, Planning And Programmes
+31110.03 : Institution Capacity Building, Agriculture
+31110.04 : Aid To Agricultural Ministries
+31110.05 : Agrarian Reform
+31120.01 : Agricultural Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31120.02 : Integrated Agriculture Projects
+31120.03 : Farm Development
+31120.04 : Feeder Roads
+31120.05 : Agriculture Infrastructure
+31120.06 : Food Crop Production
+31120.07 : Industrial Crops/Export Crops
+31120.08 : Livestock
+31120.09 : Agricultural Alternative Development
+31130.01 : Agricultural Land Resources, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31130.02 : Soil Improvement
+31130.03 : Drainage
+31130.04 : Agriculture Land Surveys
+31130.05 : Land Reclamation
+31130.06 : Erosion Control
+31130.07 : Desertification Control
+31140.01 : Agricultural Water Resources, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31140.02 : Irrigation
+31140.03 : Reservoirs
+31140.04 : Hydraulic Structures
+31140.05 : Ground Water Exploitation
+31150.01 : Agricultural Inputs, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31150.02 : Supply Of Seeds
+31150.03 : Supply Of Fertilizers
+31150.04 : Agricultural Machinery/Equipment
+31181.01 : Formal Education/Training, Agriculture
+31181.02 : Agricultural Extension
+31182.01 : Agricultural Research, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31182.02 : All Plant Research Activities
+31182.03 : All Livestock Research Activities
+31191.01 : Agricultural Services
+31191.02 : Plant And Post-Harvest Protection And Pest Control
+31191.03 : Agricultural Financial Services
+31191.04 : Agricultural Co-Operatives
+31191.05 : Livestock/Veterinary Services
+31205.01 : Forestry, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+31210.01 : Forestry Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31210.02 : Forestry Sector Policy, Planning And Programs
+31210.03 : Institution Capacity Building, Forestry
+31210.04 : Forest Surveys
+31220.01 : Forestry Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31220.02 : Afforestation
+31220.03 : Exploitation And Utilization
+31220.04 : Erosion Control
+31220.05 : Desertification Control
+31220.06 : Integrated Forestry Projects
+31220.07 : Agro-Forestry
+31220.08 : Fuelwood/Charcoal
+31281.01 : All Forestry Education/Training Activities
+31282.01 : Forestry Research, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31291.01 : Forestry Services, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31291.02 : Marketing Policies And Organization
+31291.03 : Forestry Financial Services
+31305.01 : Fishing, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+31310.01 : Fishing Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31310.02 : Fishing Sector Policy, Planning And Programs
+31310.03 : Institution Capacity Building, Fishing
+31320.01 : Fishery Development, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+31320.02 : Exploitation And Utilization Of Fisheries
+31320.03 : Fish Stock Protection
+31320.04 : Aquaculture
+31320.05 : Integrated Fishery Projects
+31330.01 : Ocean And Coastal Fishing
+31330.02 : Marine And Freshwater Fish Surveys And Prospecting
+31330.03 : Fishing Boats/Equipment
+31381.01 : All Fishery Education/Training Activities
+31382.01 : Fishery Research, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31382.02 : Pilot Fish Culture
+31382.03 : Marine/Freshwater Biological Research
+31391.01 : Fishery Services, Activity Unspecified Or Does Not Fit Elsewhere In Group
+31391.02 : Fishing Harbours
+31391.03 : Fishery Financial Services
+31391.04 : Fish Markets
+31391.05 : Fishery Transport And Cold Storage
+32105.01 : Industry, Activity Unspecified (Includes Manufacturing Of Goods Not Specified Elsewhere) Or Does Not Fit Under Any Other Applicable Codes
+32110.01 : Industrial Policy And Administrative Management, Activities Unspecified Or Does Not Fit Elsewhere In Group
+32110.02 : Industrial Sector Policy, Planning And Programmes
+32110.03 : Institution Capacity Building, Industry
+32120.01 : Industrial Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+32120.02 : Modernization And Rehabilitation
+32120.03 : Infrastructure
+32120.04 : Integrated Industry Projects
+32120.05 : Investments, Unspecified
+32120.06 : Agro-Industries
+32120.07 : Forest Industries
+32120.08 : Textiles, Leather And Substitutes
+32120.09 : Chemicals
+32120.10 : Fertilizer Plants
+32120.11 : Cement/Lime/Plaster
+32120.12 : Energy Manufacturing
+32120.13 : Pharmaceutical Production
+32120.14 : Basic Metal Industries, Ferrous
+32120.15 : Non-Ferrous Metal Industries
+32120.16 : Engineering
+32120.17 : Transport Equipment Industry
+32130.01 : Support To Smes, Unspecified
+32130.02 : Accounting, Auditing, Advisory Services
+32140.01 : Cottage Industries And Handicraft, Activities
+32181.01 : All Industry Education And Training Activities
+32182.01 : All Technological Research And Development Activities
+32191.01 : Industry Services, Activity Unspecified Or Does Not Fit Elsewhere In Group
+32191.02 : Marketing Policies & Organisation
+32191.03 : Industry Financial Services
+32191.04 : Industrial Co-Operatives
+32205.01 : Mineral Resources And Mining, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+32210.01 : Mineral/Mining Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+32210.02 : Mineral And Mining Sector Policy, Planning And Programs
+32210.03 : Institution Capacity Building, Mineral Resources And Mining
+32210.04 : Mining Legislation, Mining Cadastre, Mineral Resources Inventory, Information Systems
+32220.01 : Mineral/Metal Prospection And Exploration, Activity Unspecified Or Does Not Fit Elsewhere
+32220.02 : Coal
+32220.03 : Oil And Gas
+32220.04 : Ferrous Metals
+32220.05 : Nonferrous Metals
+32220.06 : Precious Metals/Materials
+32220.07 : Industrial Minerals
+32220.08 : Fertilizer Minerals
+32220.09 : Offshore Minerals
+32220.10 : Geology, Geophysics, Geochemistry
+32220.11 : Mineral Extraction And Processing, Infrastructure, Technology, Economics, Safety And Environment Management
+32281.01 : All Mining Education/Training Activities
+32310.01 : Construction Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere
+32310.02 : Institution Capacity Building, Construction
+33105.01 : Trade Policy And Regulations, Activity Unspecified (Includes Trade And Trade Promotion Activities) Or Does Not Fit Under Any Other Applicable Codes
+33110.01 : Trade Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+33110.02 : Trade Policy And Planning
+33110.03 : Institution Capacity Building, Trade
+33110.04 : Trade-Related Legislation And Regulatory Reforms
+33110.05 : Multilateral Trade Agreements
+33120.01 : Trade Facilitation, Activity Unspecified Or Does Not Fit Elsewhere In Group
+33120.02 : Simplification And Harmonisation Of International Import And Export Procedures
+33120.03 : Support To Customs Departments
+33120.04 : Tariff Reforms
+33130.01 : Regional Trade Agreements (Rtas), Activity Unspecified Or Does Not Fit Elsewhere In Group
+33130.02 : Support To Regional Trade Arrangements
+33140.01 : All Multilateral Trade Negotiations Activities
+33181.01 : All Trade Education/Training Activities
+33210.01 : Tourism Policy And Administrative Management, Activities Unspecified Or Does Not Fit Elsewhere In This Group
+33210.02 : Tourism Infrastructure
+33210.03 : Institutional Capacity Building, Tourism
+33210.04 : Tourism Education/Training Activities
+41005.01 : General Environmental Protection, Activity Unspecified (Includes Miscellaneous Conservation And Protection Measures Not Mentioned Below) Or Does Not Fit Under Any Other Applicable Codes
+41010.01 : Environmental Policy And Administrative Management, Activity Unspecified Or Does Not Fit Elsewhere In Group
+41010.02 : Environmental Policy, Laws, Regulations And Economic Instruments
+41010.03 : Institution Capacity Building, Environmental Protection
+41020.01 : Biosphere Protection, Activity Unspecified Or Does Not Fit Elsewhere In Group
+41020.02 : Air Pollution Control
+41020.03 : Marine Pollution Control
+41030.01 : Bio-Diversity, Activity Unspecified Or Does Not Fit Elsewhere In Group
+41030.02 : Natural Reserves
+41030.03 : Species Protection
+41040.01 : All Site Preservation Activities
+41050.01 : Flood Prevention/Control, Activity Unspecified Or Does Not Fit Elsewhere In Group
+41050.02 : Erosion Control
+41050.03 : River Or Sea Flood Control
+41081.01 : All Environmental Education/Training Activities
+41082.01 : All Environmental Research Activities
+41082.02 : Environmental Impact Assessments
+42010.01 : Women In Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+42010.02 : Multisectoral Wib Projects And Programs
+42010.03 : Institutional Capacity Building, Wid
+42010.04 : Promotion Of And Support To Wid Groups And Networks
+42010.05 : Wid Education/Training
+42010.06 : Wid Financial Services
+43010.01 : All Unspecified Multisector Aid Activities
+43030.01 : Urban Development And Management, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+43030.02 : Integrated Urban Development Projects
+43030.03 : Urban Development, Planning And Management
+43030.04 : Urban Renewal And Urban Housing
+43030.05 : Urban Infrastructure And Services
+43030.06 : Urban Land Information Systems
+43040.01 : Rural Development, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+43040.02 : Integrated Rural Development Projects
+43040.03 : Rural Development, Planning And Management
+43040.04 : Land Use Planning And Management
+43040.05 : Rural Infrastructure And Services
+43040.06 : Land Settlement And Resettlement Activities
+43040.07 : Rural/Urban Integration Activities
+43040.08 : Geographical Information Systems
+43050.01 : Non-Agricultural Alternative Development, Activity Unspecified Or Does Not Fit Elsewhere In Group
+43050.02 : Non-Agricultural Projects To Reduce Illicit Drug Cultivation
+43081.01 : Multisector Education/Training Activities
+43082.01 : Research/Scientific Institutions Activities
+51010.01 : General Budget Support, Activity Unspecified Or Does Not Fit Elsewhere In This Group
+51010.02 : Unearmarked Contributions To The Government Budget
+51010.03 : Support For Implementation Of Macroeconomic Reforms
+51010.04 : Balance Of Payments Support
+51010.05 : General Program Assistance
+52010.01 : Food Aid/Food Security Programmes, Activity Unspecified
+52010.02 : Food Supply
+52010.03 : Food Security Programs
+53030.01 : Import Support (Capital Goods), Activity Unspecified Or Does Not Fit Elsewhere In Group
+53030.02 : Capital Goods And Services, Import Support
+53030.03 : Lines Of Credit
+53040.01 : Import Support (Commodities), Activity Unspecified Or Does Not Fit Elsewhere In Group
+53040.02 : Commodities
+53040.03 : General Goods And Services
+53040.04 : Oil Imports
+53050.01 : All Export Support Activities
+60010.01 : Actions Relating To Debt, Activity Unspecified Or Does Not Fit Elsewhere In Group
+60010.02 : Debt For Development Swap
+60010.03 : Other Debt Swap
+60010.04 : Training In Debt Management
+60020.01 : All Debt Forgiveness Activities
+60020.02 : Debt Buy-Back
+60030.01 : All Relief Of Multilateral Debt Activities
+60040.01 : All Rescheduling And Refinancing Activities
+72010.01 : All Non-Food Relief Items And Assistance
+72020.01 : All Emergency Health Services/Support Activities
+72030.01 : All Water And Sanitation Services/Support Activities
+72040.01 : All Emergency Food Aid Items Or Activities
+72050.01 : Relief Co-Ordination; Protection And Support Services
+73010.01 : Recovery And Reconstruction, Activity Unspecified
+73010.02 : Recovery
+73010.03 : Transitional Shelters
+73010.04 : Reconstruction Assistance
+73010.05 : Damage And Loss Assessment
+74010.01 : Disaster Prevention And Preparedness, Activity Unspecified
+74010.02 : Disaster Risk Assessment And Monitoring
+74010.03 : Institutional Consensus, Awareness, And Capacity Building
+74010.04 : Knowledge, Innovation, And Education
+74010.05 : Disaster Risk Financing
+74010.06 : Strengthening Early Warning Systems
+74010.07 : Protecting Critical Infrastructure
+74010.08 : Response Preparedness And Sustainable Recovery
+74010.09 : Macroeconomic Analysis
+91010.01 : All Items Relating To Otherwise Unspecified Adminstrative Costs Of Donors
+92005.01 : Support To Non-Governmental Organizations And Government Organizations, Activity Unspecified Or Does Not Fit Under Any Other Applicable Codes
+92010.01 : All Support To National Ngos Activities
+92020.01 : All Support To International Ngos Activities
+92030.01 : All Support To Local And Regional Ngos Activities
+93010.01 : Refugees In Donor Country
+99810.01 : All Other Activities When Sector Is Not Specified
+99820.01 : All Promotion Of Development Awareness Activities

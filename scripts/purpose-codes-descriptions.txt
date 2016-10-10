@@ -1,0 +1,196 @@
+11000 : Education, Combinations Of Purposes
+11100 : Education, Level Unspecified, Combinations Of Purposes
+11105 : Education, Level Unspecified, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+11110 : Education Policy And Administrative Management
+11120 : Education Facilities And Training
+11130 : Teacher Training
+11182 : Educational Research
+11220 : Primary Education
+11230 : Basic Life Skills For Youth And Adults
+11240 : Early Childhood Education
+11320 : Secondary Education
+11330 : Vocational Training
+11420 : Higher Education
+11430 : Advanced Technical And Managerial Training
+12000 : Health, Combination Of General, Basic, And Population Policy/Reproductive Health Purposes
+12005 : Health, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+12100 : Health, General, Combinations Of Activities
+12105 : Health, General, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+12110 : Health Policy And Administrative Management
+12181 : Medical Education/Training
+12182 : Medical Research
+12191 : Medical Services
+12220 : Basic Health Care
+12230 : Basic Health Infrastructure
+12240 : Basic Nutrition
+12250 : Infectious & Parasitic Disease Control
+12261 : Health Education
+12281 : Health Personnel Development
+13000 : Population Policies/ Programmes And Reproductive Health, Combinations Of Activities
+13005 : Population Policies/ Programmes And Reproductive Health, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+13010 : Population Policy And Administrative Management
+13020 : Reproductive Health Care
+13030 : Family Planning
+13040 : Std Control Including Hiv/Aids
+13081 : Personnel Development For Population And Reproductive Health
+140 : Water Supply And Sanitation
+14000 : Water Supply And Sanitation, Combination Of Purposes
+14005 : Water Supply And Sanitation, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+14010 : Water Resources Policy And Administrative Management
+14015 : Water Resources Protection
+14020 : Water Supply And Sanitation - Large Systems
+14030 : Basic Drinking Water Supply And Basic Sanitation
+14040 : River Development
+14050 : Waste Management/Disposal
+14081 : Education And Training In Water Supply And Sanitation
+14082 : Water Research
+15000 : Government And Civil Society, Combination Of Activities
+15100 : Government And Civil Society, General, Combination Of Activities
+15105 : Government And Civil Society, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+15110 : Economic And Development Policy/Planning
+15120 : Public Sector Financial Management
+15130 : Legal And Judicial Development
+15140 : Government Administration
+15150 : Strengthening Civil Society
+15200 : Conflict Prevention And Resolution, Peace And Security, Combinations Of Activities
+15205 : Conflict Prevention And Resolution, Peace And Security, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+15210 : Security System Management And Reform
+15220 : Civilian Peace-Building, Conflict Prevention And Resolution
+15230 : Post-Conflict Peace-Building (Un)
+15240 : Reintegration And Salw Control
+15250 : Land Mine Clearance
+15261 : Child Soldiers (Prevention And Demobilisation)
+16010 : Social/ Welfare Services
+16020 : Employment Policy And Administrative Management
+16030 : Housing Policy And Administrative Management
+16050 : Multisector Aid For Social Services
+16081 : Other Social Infrastructure And Services, Education And Training
+21000 : Transport And Storage, Combination Of Purposes
+21005 : Transport And Storage, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+21010 : Transport Policy And Administrative Management
+21020 : Road Transport
+21030 : Rail Transport
+21040 : Water Transport
+21050 : Air Transport
+21061 : Storage
+21081 : Education And Training In Transport And Storage
+22000 : Communications, Combinations Of Activities
+22005 : Communications, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+22010 : Communications Policy And Administrative Management
+22020 : Telecommunications
+22030 : Radio/Television/Print Media
+22040 : Information And Communication Technology (Ict)
+22081 : Communications, Education And Training.
+23000 : Energy Generation And Supply, Combinations Of Activities
+23005 : Energy Generation And Supply, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+23010 : Energy Policy And Administrative Management
+23020 : Power Generation/Non-Renewable Sources
+23030 : Power Generation/Renewable Sources
+23040 : Electrical Transmission/ Distribution
+23050 : Gas Distribution
+23055 : Petroleum Distribution And Storage
+23081 : Energy Education/Training
+23082 : Energy Research
+24000 : Banking And Financial Services, Combinations Of Activities
+24005 : Banking And Financial Services, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+24010 : Financial Policy And Administrative Management
+24020 : Monetary Institutions
+24030 : Formal Sector Financial Intermediaries
+24040 : Informal/Semi-Formal Financial Intermediaries
+24081 : Education/Training In Banking And Financial Services
+25010 : Business Support Services And Institutions
+25020 : Privatisation
+25081 : Business Education And Training
+31000 : Agriculture, Combination Of Purposes In Agriculture, Forestry, Fishing
+31100 : Agriculture, Combinations Of Purposes In Agriculture, Agro-Industry, Agribusiness
+31105 : Agriculture, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+31110 : Agricultural Policy And Administrative Management
+31120 : Agricultural Development
+31130 : Agricultural Land Resources
+31140 : Agricultural Water Resources
+31150 : Agricultural Inputs
+31181 : Agricultural Education/Training
+31182 : Agricultural Research
+31191 : Agricultural Services, Purpose
+31205 : Forestry, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+31210 : Forestry Policy And Administrative Management
+31220 : Forestry Development
+31281 : Forestry Education/Training
+31282 : Forestry Research
+31291 : Forestry Services
+31300 : Fishing, Combination Of Activities
+31305 : Fishing, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+31310 : Fishing Policy And Administrative Management
+31320 : Fishery Development
+31330 : Fishing Development
+31381 : Fishery Education/Training
+31382 : Fishery Research
+31391 : Fishery Services
+32000 : Industry, Combination Of Purposes Industry, Mining And Construction
+32105 : Industry, Purpose Unspecified (Includes Manufacturing Of Goods Not Specified Below) Or Does Not Fit Under Any Other Applicable Codes
+32110 : Industrial Policy And Administrative Management
+32120 : Industrial Development
+32130 : Small And Medium-Sized Enterprises (Sme) Development
+32140 : Cottage Industries And Handicraft
+32181 : Industry Education And Training
+32182 : Technological Research And Development
+32191 : Industry Services
+32200 : Mineral Resources And Mining, Combination Of Purposes
+32205 : Mineral Resources And Mining, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+32210 : Mineral/Mining Policy And Administrative Management
+32220 : Mineral/Metal Prospection And Exploration
+32281 : Mining Education / Training
+32310 : Construction Policy And Administrative Management
+33100 : Trade Policy And Regulations, Combination Of Purposes
+33105 : Trade Policy And Regulations, Purpose Unspecified (Includes Trade And Trade Promotion Activities) Or Does Not Fit Under Any Other Applicable Codes
+33110 : Trade Policy And Administrative Management
+33120 : Trade Facilitation
+33130 : Regional Trade Agreements (Rtas)
+33140 : Multilateral Trade Negotiations
+33181 : Trade Education/Training
+33210 : Tourism Policy And Administrative Management
+41000 : General Environmental Protection, Combinations Of Purposes
+41005 : General Environmental Protection, Purpose Unspecified (Includes Miscellaneous Conservation And Protection Measures Not Mentioned Below) Or Does Not Fit Under Any Other Applicable Codes
+41010 : Environmental Policy And Administrative Management
+41020 : Biosphere Protection
+41030 : Bio-Diversity
+41040 : Site Preservation
+41050 : Flood Prevention/Control
+41081 : Environmental Education/ Training
+41082 : Environmental Research
+42010 : Women In Development
+43010 : Multisector Aid
+43030 : Urban Development And Management
+43040 : Rural Development
+43050 : Non-Agricultural Alternative Development
+43081 : Multisector Education/Training
+43082 : Research/Scientific Institutions
+51010 : General Budget Support
+52010 : Food Aid/Food Security Programmes
+53030 : Import Support (Capital Goods)
+53040 : Import Support (Commodities)
+53050 : Export Support
+60010 : Action Relating To Debt
+60020 : Debt Forgiveness
+60030 : Relief Of Multilateral Debt
+60040 : Rescheduling And Refinancing
+70000 : Emergency Assistance And Reconstruction, Combinations Of Purposes
+72000 : Emergency Response, Combination Of Purposes
+72010 : Material Relief Assistance And Services
+72020 : Emergency Health Services/Support
+72030 : Water And Sanitation Services/Support
+72040 : Emergency Food Aid
+72050 : Relief Co-Ordination; Protection And Support Services
+730 : Reconstruction Relief
+73010 : Reconstruction Relief And Rehabilitation
+74010 : Disaster Prevention And Preparedness
+910 : Administrative Costs Of Donors
+91010 : Administrative Costs
+92000 : Support To Non-Governmental Organizations And Government Organizations, Combination Of Purposes
+92005 : Support To Non-Governmental Organizations And Government Organizations, Purpose Unspecified Or Does Not Fit Under Any Other Applicable Codes
+92010 : Support To National Ngos
+92020 : Support To International Ngos
+92030 : Support To Local And Regional Ngos
+93010 : Refugees In Donor Countries
+99810 : Sectors Not Specified
+99820 : Promotion Of Development Awareness
